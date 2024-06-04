@@ -1,0 +1,10 @@
+1- Acordo
+2- vou até o banheiro
+3- Pego a escova de dentes
+4- tem pasta de dentes no tubo ? Sim
+  1- Passo a pasta na escova
+  2- escovo os dentes
+5- Não
+  1- Abro a gaveta 
+  2- pego um tubo novo de pasta de dente
+
